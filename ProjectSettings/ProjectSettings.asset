@@ -822,7 +822,23 @@ PlayerSettings:
   webGLWebAssemblyBigInt: 0
   webGLCloseOnQuit: 0
   webWasm2023: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    Android: EXTOSC
+    EmbeddedLinux: EXTOSC
+    GameCoreScarlett: EXTOSC
+    GameCoreXboxOne: EXTOSC
+    Kepler: EXTOSC
+    LinuxHeadlessSimulation: EXTOSC
+    Nintendo Switch: EXTOSC
+    Nintendo Switch 2: EXTOSC
+    PS4: EXTOSC
+    PS5: EXTOSC
+    QNX: EXTOSC
+    Standalone: EXTOSC
+    VisionOS: EXTOSC
+    WebGL: EXTOSC
+    XboxOne: EXTOSC
+    tvOS: EXTOSC
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
@@ -844,7 +860,7 @@ PlayerSettings:
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: gage-baldassaro-enchanted-flashlight
-  metroPackageVersion: 
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -852,7 +868,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: gage-baldassaro-enchanted-flashlight
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: gage-baldassaro-enchanted-flashlight
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
