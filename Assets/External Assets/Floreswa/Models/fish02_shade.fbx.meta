@@ -1,9 +1,36 @@
 fileFormatVersion: 2
 guid: fb186f36b78cfae4383143f429b23197
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339618
+  packageName: Low Poly Fish
+  packageVersion: 1.0
+  assetPath: Assets/Floreswa/Models/fish02_shade.fbx
+  uploadId: 804744
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyes02
+    second: {fileID: 2100000, guid: a61d57a4ee2784e4294a65f94ee2bf62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat04
+    second: {fileID: 2100000, guid: d5567dbd675a6e643a7530c1553d95cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat05
+    second: {fileID: 2100000, guid: 5e2c95f149c1e164abe48e09f1e6d3d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat06
+    second: {fileID: 2100000, guid: 293d6ca31b9107942b0aaf6b63a39f49, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -105,10 +132,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 339618
-  packageName: Low Poly Fish
-  packageVersion: 1.0
-  assetPath: Assets/Floreswa/Models/fish02_shade.fbx
-  uploadId: 804744
