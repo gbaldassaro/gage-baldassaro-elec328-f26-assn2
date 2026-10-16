@@ -2166,8 +2166,8 @@
     "m_ObjectId": "31d8635f3ea6492aae6f493dd4070e82",
     "m_Title": "Floor Lights",
     "m_Position": {
-        "x": -2976.800048828125,
-        "y": -1444.0
+        "x": -2976.799560546875,
+        "y": -1443.9998779296875
     }
 }
 
@@ -4318,8 +4318,8 @@
     "m_ObjectId": "91105d44298e42a2962e4e3ebb3d05d0",
     "m_Title": "Terrain Displacement",
     "m_Position": {
-        "x": 163.9998779296875,
-        "y": -1250.400146484375
+        "x": 164.0,
+        "y": -1250.4000244140625
     }
 }
 
@@ -4416,7 +4416,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Scale",
     "m_StageCapability": 3,
-    "m_Value": 12.699999809265137,
+    "m_Value": 20.0,
     "m_DefaultValue": 500.0,
     "m_Labels": []
 }
@@ -4761,8 +4761,8 @@
     "m_ObjectId": "a70cbf32de134782ae5b6868c3043f9d",
     "m_Title": "Flashlight Edge",
     "m_Position": {
-        "x": -2788.800048828125,
-        "y": 189.599853515625
+        "x": -2788.799560546875,
+        "y": 189.5999755859375
     }
 }
 
