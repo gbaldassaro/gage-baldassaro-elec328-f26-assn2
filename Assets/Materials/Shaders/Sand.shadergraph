@@ -55,9 +55,6 @@
             "m_Id": "6ab0574b496e4bf0a16221743f4a9f3e"
         },
         {
-            "m_Id": "adf4bdcc15df437baf0ab177eb7e7f07"
-        },
-        {
             "m_Id": "47314075ab4f445d907236ace05cc21d"
         },
         {
@@ -4010,31 +4007,6 @@
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.Vector4MaterialSlot",
-    "m_ObjectId": "73aeef509a6648d5aed1ec208d6487eb",
-    "m_Id": 0,
-    "m_DisplayName": "Out",
-    "m_SlotType": 1,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "Out",
-    "m_StageCapability": 3,
-    "m_Value": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0,
-        "w": 0.0
-    },
-    "m_DefaultValue": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0,
-        "w": 0.0
-    },
-    "m_Labels": []
-}
-
-{
-    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.BooleanMaterialSlot",
     "m_ObjectId": "74b2bb987be849df92f89bf0a5290372",
     "m_Id": 2,
@@ -4637,8 +4609,8 @@
     "m_ObjectId": "91105d44298e42a2962e4e3ebb3d05d0",
     "m_Title": "Terrain Displacement",
     "m_Position": {
-        "x": 163.99981689453126,
-        "y": -1250.4000244140625
+        "x": 164.000244140625,
+        "y": -1250.400146484375
     }
 }
 
@@ -5081,7 +5053,7 @@
     "m_Title": "Flashlight Edge",
     "m_Position": {
         "x": -2669.60009765625,
-        "y": 189.5999755859375
+        "y": 189.60009765625
     }
 }
 
@@ -5172,50 +5144,6 @@
     "m_Labels": [
         "Y"
     ]
-}
-
-{
-    "m_SGVersion": 1,
-    "m_Type": "UnityEditor.ShaderGraph.ColorNode",
-    "m_ObjectId": "adf4bdcc15df437baf0ab177eb7e7f07",
-    "m_Group": {
-        "m_Id": ""
-    },
-    "m_Name": "Color",
-    "m_DrawState": {
-        "m_Expanded": true,
-        "m_Position": {
-            "serializedVersion": "2",
-            "x": -468.7998962402344,
-            "y": -808.7999267578125,
-            "width": 207.99990844726563,
-            "height": 124.0001220703125
-        }
-    },
-    "m_Slots": [
-        {
-            "m_Id": "73aeef509a6648d5aed1ec208d6487eb"
-        }
-    ],
-    "synonyms": [
-        "rgba"
-    ],
-    "m_Precision": 0,
-    "m_PreviewExpanded": true,
-    "m_DismissedVersion": 0,
-    "m_PreviewMode": 0,
-    "m_CustomColors": {
-        "m_SerializableColors": []
-    },
-    "m_Color": {
-        "color": {
-            "r": 1.0,
-            "g": 0.9764706492424011,
-            "b": 0.46666669845581057,
-            "a": 1.0
-        },
-        "mode": 0
-    }
 }
 
 {

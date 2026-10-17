@@ -14,7 +14,7 @@ public class FlashlightSource : MonoBehaviour
 
     void Start()
     {
-        active = false;
+        active = true;
         music.volume = 0.0f;
         elapsedFadeTime = 0.0f;
     }
